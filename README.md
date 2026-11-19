@@ -31,7 +31,7 @@
 | 항목 | 내용 |
 |---|---|
 | 기간 | 2026.07 ~ |
-| 형태 | 팀 프로젝트 (백엔드는 팀원 담당) |
+| 형태 | 3인 팀 프로젝트 (본인 + 백엔드 2명) |
 | 내 역할 | **프론트엔드 · 기능과 DB 설계 · 배포** |
 | 출시 | App Store (iOS) |
 | 규모 | 한국관광공사 시설 데이터 48,786건 분석 · 화면 26개 · 라이브 API 44개 중 43개 연동 |
@@ -77,7 +77,7 @@
 | App | Expo, React Native, TypeScript |
 | AI | Claude API (구조화 출력으로 조건 판별 · 파싱) |
 | Data | 한국관광공사 반려동물 동반여행 데이터, MySQL |
-| Backend | Spring (팀원 담당) |
+| Backend | Spring (팀원 2명 담당) |
 | 배포 | EAS Build, App Store Connect, TestFlight |
 
 <br>
